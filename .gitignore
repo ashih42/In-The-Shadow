@@ -4,6 +4,7 @@
 
 # Whitelist
 !.gitignore
+!author
 !README.md
 !/Assets/
 !/Docs
