@@ -6,6 +6,7 @@
 !.gitignore
 !README.md
 !/Assets/
+!/Docs
 !/ProjectSettings/
 !/Requirements
 !/Screenshots
