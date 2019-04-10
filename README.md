@@ -1,4 +1,4 @@
-# In-The-Shadow
+# In The Shadow
 My remake of [Shadowmatic](https://en.wikipedia.org/wiki/Shadowmatic), a shadow-casting rotational puzzle game, in Unity C#. (42 Silicon Valley)
 
 <p float="left">
