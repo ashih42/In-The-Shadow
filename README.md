@@ -9,6 +9,10 @@ My remake of [Shadowmatic](https://en.wikipedia.org/wiki/Shadowmatic), a shadow-
 Made in Unity version 2018.3.0f2  
 Recommended screen resolution: 1024 x 768
 
+## Releases
+
+* [Windows Build](https://github.com/ashih42/In-The-Shadow/releases/download/v00/InTheShadow-Build-Windows-v00.zip)
+
 ## Tips
 
 * Rotate and move the objects until their shadows resemble something.
