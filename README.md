@@ -16,8 +16,8 @@ Recommended screen resolution: 1024 x 768
 ## Tips
 
 * Rotate and move the objects until their shadows resemble something.
-* Some levels have multiple solutions.
 * Some objects can only be moved or rotated in certain directions.
+* Some levels have multiple solutions.
 * To get 3 stars, you must solve the level without using `Hint` or `Peek`.
 * You may select `Tester` to access any all levels without unlocking them in order.
 
