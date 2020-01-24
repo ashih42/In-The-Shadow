@@ -19,7 +19,7 @@ Recommended screen resolution: 1024 x 768
 * Some objects can only be moved or rotated in certain directions.
 * Some levels have multiple solutions.
 * To get 3 stars, you must solve the level without using `Hint` or `Peek`.
-* You may select `Tester` to access any all levels without unlocking them in order.
+* You may select `Tester` to access all levels without unlocking them in order.
 
 ## Controls
 
@@ -36,7 +36,7 @@ Recommended screen resolution: 1024 x 768
 * (`Left Shift`+) `Tab` Select next/previous object.
 
 #### Mouse
-* `Hold LMB nad Move Mouse` Move the object.
+* `Hold LMB and Move Mouse` Move the object.
 * `Hold RMB and Move Mouse` Rotate the object.
 * `Mouse Scroll Wheel Up/Down` Select next/previous object.
 
